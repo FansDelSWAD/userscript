@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        CursoresDeAcanas
 // @namespace   Acanas
-// @include     swad.ugr.es*
+// @include     *swad.ugr.es*
 // @version     1
 // @grant       none
 // ==/UserScript==
